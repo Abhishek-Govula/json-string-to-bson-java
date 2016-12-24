@@ -1,0 +1,24 @@
+{
+	"greeting": "Namastey",
+	"name": "Mallana",
+	"continuation": "Kya Smart dikhrey!!!",
+	"address": {
+		"no": 42,
+		"lane": "wallaby way",
+		"country": "Sydney",
+		"key1": {
+			"key2": "test123",
+			"value": {
+				"value1": 1
+			}
+		}
+	},
+	"test": 123,
+	"test2": 123.00,
+	"test3": null,
+	"test4": ["A", {
+		"key": {
+			"key2": "value"
+		}
+	}, 12, 123.0, null, [0, 78, 19.0]]
+}
