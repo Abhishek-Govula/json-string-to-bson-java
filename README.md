@@ -14,3 +14,6 @@ To reduce the confusion and to ease the conversion of the JSON Object syntax int
 Has a dependency of 
 * Google GSON
 * MongoDB java driver
+
+###Sample
+You can refer to the sample [a relative link](src/com/converter/main/Test.java)
