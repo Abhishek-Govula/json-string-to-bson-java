@@ -16,4 +16,4 @@ Has a dependency of
 * MongoDB java driver
 
 ###Sample
-You can refer to the sample [a relative link](src/com/converter/main/Test.java)
+You can refer to the [sample here](src/com/converter/main/Test.java)
