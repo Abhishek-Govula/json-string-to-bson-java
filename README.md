@@ -6,10 +6,11 @@ MongoShell queries with a JSON syntax. While trying to do the same using Java li
 To reduce the confusion and to ease the conversion of the JSON Object syntax into a way in which Java will be able to query (BasicDBObject of MongoDB), this converter was made.
 	
 ###Use
-	Converter.createBsonObj(String jsonStr)	
-This will take a JSON object in the form of string and will convert it into BSON Object.
+
+	Converter.createBsonObj(String jsonStr)
+	This will take a JSON object in the form of string and will convert it into BSON Object.
 
 ###Libraries
 Has a dependency of 
-> Google GSON
-> MongoDB java driver
+* Google GSON
+* MongoDB java driver
